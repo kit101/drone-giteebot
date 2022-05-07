@@ -1,0 +1,11 @@
+.vscode
+__debug_bin
+*.sqlite
+*.txt
+*.out
+*.key
+.env
+.env.*
+release/
+TODO*
+.idea
