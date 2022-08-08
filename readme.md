@@ -1,1 +1,1 @@
-# gitee-bot
+# drone-giteebot
